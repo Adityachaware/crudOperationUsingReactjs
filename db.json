@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Aditya Chaware",
+      "username": "ACHAWARE",
+      "email": "pralhadchaware@gmail.com",
+      "phone": "9422128085",
+      "website": "happy aditya",
+      "id": 4
+    },
+    {
+      "name": "sumit",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "id": 5
+    },
+    {
+      "name": "shaam",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "id": 6
+    }
+  ]
+}
